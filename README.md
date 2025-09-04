@@ -274,15 +274,10 @@ The plugin uses:
 3. **Test Connectivity** - Try accessing pack URLs directly
 4. **Check Permissions** - Verify admin permissions for commands
 
-### CloudNord.net Integration
-This plugin is optimized for CloudNord.net hosting:
-- Automatic IP detection works seamlessly
-- Professional branding included
-- Optimized for cloud environments
 
 ### Plugin Information
 - **Version**: 1.0.0
-- **Author**: Senior Resource Packs Team
+- **Author**: [YourSenior](https://modrinth.com/user/YourSenior)
 - **Powered by**: CloudNord.net
 - **Minecraft Version**: 1.21+
 - **Java Version**: 19+
