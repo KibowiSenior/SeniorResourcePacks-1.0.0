@@ -1,23 +1,7 @@
 # Senior Resource Packs Plugin
 
 **A professional Minecraft Spigot/Bukkit resource pack plugin with automatic HTTP server, smart IP detection, and web management interface.**
-
 *Powered by CloudNord.net - Start your server with CloudNord*
-
----
-
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Commands](#commands)
-- [Web Interface](#web-interface)
-- [Resource Pack Management](#resource-pack-management)
-- [Troubleshooting](#troubleshooting)
-- [Advanced Settings](#advanced-settings)
-
 ---
 
 ## ✨ Features
