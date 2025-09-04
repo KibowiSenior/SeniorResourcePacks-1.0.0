@@ -1,24 +1,26 @@
 # Senior Resource Packs Plugin
 
 **A professional Minecraft Spigot/Bukkit resource pack plugin with automatic HTTP server, smart IP detection, and web management interface.**
+
+
+---
 *Powered by CloudNord.net - Start your server with CloudNord*
 ---
 
 ## ✨ Features
 
-- **🚀 Automatic HTTP Server** - Built-in HTTP server for resource pack hosting
-- **🌐 Smart IP Detection** - Automatically detects external IP for proper downloads
-- **💻 Web Management Interface** - Professional web UI for easy management
-- **📱 Mobile Responsive** - Works on all devices (phones, tablets, desktop)
-- **🎨 CloudNord.net Branding** - Professional design with CloudNord integration
-- **⚡ Auto-Apply Packs** - Automatically applies packs to players on join
-- **🔧 Force Pack Option** - Force players to accept resource packs
-- **📊 Real-time Status** - Live server status and pack information
-- **🔄 Hot Reload** - Reload configuration without server restart
+- ** Automatic HTTP Server** - Built-in HTTP server for resource pack hosting
+- ** Smart IP Detection** - Automatically detects external IP for proper downloads
+- ** Web Management Interface** - Professional web UI for easy management
+- ** Mobile Responsive** - Works on all devices (phones, tablets, desktop)
+- ** Auto-Apply Packs** - Automatically applies packs to players on join
+- ** Force Pack Option** - Force players to accept resource packs
+- ** Real-time Status** - Live server status and pack information
+- ** Hot Reload** - Reload configuration without server restart
 
 ---
 
-## 📋 Requirements
+##  Requirements
 
 - **Minecraft Server**: Spigot or Bukkit 1.21+
 - **Java Version**: Java 19 or higher
@@ -95,7 +97,7 @@ messages:
 
 ---
 
-## 🎮 Commands
+##  Commands
 
 ### Player Commands
 *No player commands available - packs are applied automatically*
@@ -120,7 +122,7 @@ messages:
 
 ---
 
-## 🌐 Web Interface
+##  Web Interface
 
 ### Accessing the Web Interface
 1. Open your web browser
@@ -129,19 +131,19 @@ messages:
 
 ### Web Interface Features
 
-#### 📊 Server Status Dashboard
+####  Server Status Dashboard
 - **HTTP Server Status** - Running/Stopped indicator
 - **Port Information** - Current HTTP port
 - **Loaded Packs** - Number of active packs
 - **Server IP** - Detected external IP
 
-#### 📦 Resource Pack Management
+####  Resource Pack Management
 - **Pack List** - View all available packs
 - **Pack Status** - Loaded/Available indicators
 - **Download Links** - Direct download URLs
 - **File Sizes** - Pack size information
 
-#### ⚙️ Configuration Panel
+#### ⚙ Configuration Panel
 - **HTTP Port** - Change server port
 - **Force Pack** - Toggle forced acceptance
 - **Auto Apply** - Toggle automatic application
@@ -150,14 +152,14 @@ messages:
 
 ### Mobile Support
 The web interface is fully responsive and works on:
-- 📱 **Mobile Phones** - Optimized single-column layout
-- 📋 **Tablets** - Balanced 2-column design
-- 💻 **Desktop** - Full-featured interface
-- 🖥️ **Large Screens** - Professional appearance
+-  **Mobile Phones** - Optimized single-column layout
+-  **Tablets** - Balanced 2-column design
+-  **Desktop** - Full-featured interface
+- 🖥 **Large Screens** - Professional appearance
 
 ---
 
-## 📦 Resource Pack Management
+##  Resource Pack Management
 
 ### Adding Resource Packs
 
@@ -190,7 +192,7 @@ The web interface is fully responsive and works on:
 
 ### Common Issues
 
-#### 🚫 Resource Packs Not Downloading
+####  Resource Packs Not Downloading
 **Problem**: Players see "Failed to download resource pack"
 **Solutions**:
 1. Check server console for detected IP
@@ -199,7 +201,7 @@ The web interface is fully responsive and works on:
 4. Check firewall settings for HTTP port
 5. Set `server_ip` manually in config if auto-detection fails
 
-#### 🌐 Wrong IP Detected
+####  Wrong IP Detected
 **Problem**: Plugin detects internal IP instead of external
 **Solutions**:
 1. Manually set `server_ip` in config.yml:
@@ -209,7 +211,7 @@ The web interface is fully responsive and works on:
 2. Restart server or reload configuration
 3. Use `/srp status` to verify new IP
 
-#### 🔌 HTTP Server Won't Start
+####  HTTP Server Won't Start
 **Problem**: "Failed to start simple HTTP server"
 **Solutions**:
 1. Check if port is already in use
@@ -217,7 +219,7 @@ The web interface is fully responsive and works on:
 3. Verify server has permission to bind to port
 4. Check for conflicting plugins
 
-#### 📁 Packs Not Loading
+####  Packs Not Loading
 **Problem**: Packs in folder but not showing as loaded
 **Solutions**:
 1. Verify files are `.zip` format
@@ -281,7 +283,7 @@ The plugin uses:
 
 ---
 
-## 🆘 Support & Contact
+##  Support & Contact
 
 ### Getting Help
 1. **Check Console Logs** - Most issues show detailed error messages
