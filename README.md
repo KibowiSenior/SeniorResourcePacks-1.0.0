@@ -1,23 +1,6 @@
 # Senior Resource Packs Plugin
 
 **A professional Minecraft Spigot/Bukkit resource pack plugin with automatic HTTP server, and web management interface.**
-
-
----
-*Powered by CloudNord.net - Start your server with CloudNord*
----
-
-##  Features
-
-- **Automatic HTTP Server** - Built-in HTTP server for resource pack hosting
-- **Smart IP Detection** - Automatically detects external IP for proper downloads
-- **Web Management Interface** - Professional web UI for easy management
-- **Mobile Responsive** - Works on all devices (phones, tablets, desktop)
-- **Auto-Apply Packs** - Automatically applies packs to players on join
-- **Force Pack Option** - Force players to accept resource packs
-- **Real-time Status** - Live server status and pack information
-- **Hot Reload** - Reload configuration without server restart
-
 ---
 
 ##  Requirements
