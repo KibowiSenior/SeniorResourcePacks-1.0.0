@@ -306,7 +306,7 @@ This plugin is optimized for CloudNord.net hosting:
 
 ---
 
-## 📜 License & Credits
+##  License & Credits
 
 **Powered by CloudNord.net** - Start your server with CloudNord
 
