@@ -29,7 +29,7 @@
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### Step 1: Download Plugin
 1. Download `senior-resource-packs-1.0.0.jar` from the releases
@@ -54,7 +54,7 @@ Check your server console for these messages:
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 ### Default config.yml
 ```yaml
@@ -155,7 +155,7 @@ The web interface is fully responsive and works on:
 -  **Mobile Phones** - Optimized single-column layout
 -  **Tablets** - Balanced 2-column design
 -  **Desktop** - Full-featured interface
-- 🖥 **Large Screens** - Professional appearance
+-  **Large Screens** - Professional appearance
 
 ---
 
@@ -188,7 +188,7 @@ The web interface is fully responsive and works on:
 
 ---
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -252,7 +252,7 @@ Monitor console for:
 
 ---
 
-## 🔬 Advanced Settings
+##  Advanced Settings
 
 ### Manual IP Configuration
 For servers behind NAT or with complex networking:
