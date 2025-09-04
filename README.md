@@ -153,7 +153,7 @@ messages:
 
 ### Pack Issues
 
-* Not loading → confirm `.zip`, permissions, use `/srp reload`
+* Not loading → confirm `.zip`, permissions, use `/rp reload`
 
 ### Console Logs
 
