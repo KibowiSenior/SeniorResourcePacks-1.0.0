@@ -202,22 +202,6 @@ The web interface is fully responsive and works on:
 3. Use `/srp reload` to refresh pack list
 4. Check console for error messages
 
-### Debug Information
-
-#### Enable Debug Logging
-Add to `config.yml`:
-```yaml
-debug: true
-```
-
-#### Check Server Status
-Use command: `/srp status`
-Output includes:
-- HTTP server status
-- Loaded pack count
-- Base URL
-- Port information
-
 #### Console Messages
 Monitor console for:
 - IP detection messages
