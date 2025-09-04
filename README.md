@@ -91,8 +91,8 @@ messages:
 
 ### Admin Commands
 
-| Command | Permission | Description |
-|---------|------------|-------------|
+| Command |  Description |
+|---------|-------------|
 | `/rp reload` | Reload plugin configuration |
 | `/rp applyall` | apply packs to a all player |
 | `/rp info` | Display plugin information |
