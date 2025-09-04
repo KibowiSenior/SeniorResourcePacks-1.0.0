@@ -89,19 +89,11 @@ messages:
 
 | Command | Permission | Description |
 |---------|------------|-------------|
-| `/srp reload` | `srp.admin` | Reload plugin configuration |
-| `/srp status` | `srp.admin` | Show plugin status |
-| `/srp info` | `srp.admin` | Display plugin information |
-| `/srp apply <player>` | `srp.admin` | Manually apply packs to a player |
-| `/srp web` | `srp.admin` | Get web interface URL |
-
-### Permission Nodes
-
-| Permission | Description | Default |
-|------------|-------------|---------|
-| `srp.admin` | Full plugin access | `op` |
-| `srp.reload` | Reload configuration | `op` |
-| `srp.status` | View status | `op` |
+| `/rp reload` | Reload plugin configuration |
+| `/rp applyall` | apply packs to a all player |
+| `/rp info` | Display plugin information |
+| `/rp apply <player>` | Manually apply packs to a player |
+| `/rp list` |  Get web interface URL |
 
 ---
 
