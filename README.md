@@ -7,7 +7,7 @@
 *Powered by CloudNord.net - Start your server with CloudNord*
 ---
 
-## ✨ Features
+##  Features
 
 - **Automatic HTTP Server** - Built-in HTTP server for resource pack hosting
 - **Smart IP Detection** - Automatically detects external IP for proper downloads
