@@ -1,6 +1,6 @@
 # Senior Resource Packs Plugin
 
-**A professional Minecraft Spigot/Bukkit resource pack plugin with automatic HTTP server, smart IP detection, and web management interface.**
+**A professional Minecraft Spigot/Bukkit resource pack plugin with automatic HTTP server, and web management interface.**
 
 
 ---
