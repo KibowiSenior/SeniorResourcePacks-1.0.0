@@ -1,6 +1,10 @@
 # Senior Resource Packs Plugin
 
-**A professional Minecraft Spigot/Bukkit resource pack plugin with automatic HTTP server, and web management interface.**
+SeniorResourcePacks is a Bukkit/Spigot plugin designed to host Minecraft resource packs locally with zero hassle.
+Simply drop your .zip file into the plugin’s folder, and it automatically provides a direct download link that Minecraft can use.
+
+No need for third-party hosting – the plugin runs its own lightweight HTTP server, allowing your server to deliver resource packs directly to players. Supports packs up to 1 GB, loads fast, and auto-detects the correct SHA-1 hash for client compatibility.
+
 ---
 
 ##  Requirements
