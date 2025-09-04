@@ -1,0 +1,25 @@
+# Senior Resource Packs Configuration
+# Place your resource pack files in the 'pack' folder
+# Set the filenames (including .zip extension) for up to 3 resource packs
+
+# Resource pack settings
+resource_packs1: ""
+resource_packs2: ""
+resource_packs3: ""
+
+# HTTP server port for serving resource packs locally
+# The plugin will automatically start a web server on this port
+http_port: 8080
+
+# Resource pack behavior
+force_pack: false
+auto_apply_all_worlds: true
+
+# Message settings
+messages:
+  resource_pack_applied: "&aResource pack has been applied successfully!"
+  resource_pack_failed: "&cFailed to download resource pack! Please check your connection."
+  config_reloaded: "&aConfiguration reloaded successfully!"
+  no_permission: "&cYou don't have permission to use this command!"
+  pack_not_found: "&cResource pack file not found: %pack%"
+  pack_prompt: "&eServer resource pack available! &7Click &a[Accept] &7to download or &c[Decline] &7to skip."

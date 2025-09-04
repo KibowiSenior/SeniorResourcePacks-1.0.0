@@ -1,0 +1,21 @@
+name: senior-resource-packs
+version: 1.0.0
+main: com.seniorresourcepacks.SeniorResourcePacks
+api-version: 1.21
+description: A plugin to load local resource packs from config
+author: SeniorDev
+website: https://example.com
+
+commands:
+  resourcepack:
+    description: Resource pack management commands
+    usage: /resourcepack <apply|reload|list|info|applyall>
+    aliases: [rp, pack, resourcepacks]
+
+permissions:
+  seniorresourcepacks.reload:
+    description: Allows reloading resource pack configuration
+    default: op
+  seniorresourcepacks.admin:
+    description: Allows access to admin commands (list, info, applyall)
+    default: op
